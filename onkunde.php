@@ -7,7 +7,7 @@
 </head>
 
 <body>
-	<form action="antwoord.php" method="" ="POST">
+	<form action="antwoord2.php" method="POST">
 		<h1>MadLips</h1>
 	<ul>
 	<li>

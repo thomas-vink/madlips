@@ -16,11 +16,12 @@
 		<a href="onkunde.php">onkunde</a>
 	</li>
 	</ul>
-
+	<div id="container">
+		<div id="content">
 		<p>Er heerst paniek in het koningkrijk <?php echo $_POST['land'] ?>.
 			</p><br>
 			<p>
-				Koning <?php echo $_POST['docent']?> is ten einde raad en als koning <?php echo $_POST['docent']?> ten einde raad is, dan roep hij zijn ten-einde-raadsheer <?php echo $_POST['naam']?>
+				Koning <?php echo $_POST['doc']?> is ten einde raad en als koning <?php echo $_POST['doc']?> ten einde raad is, dan roep hij zijn ten-einde-raadsheer <?php echo $_POST['naam']?>
 			</p><br> 
 			<p>
 				"<?php echo $_POST['naam']?>! Het is een ramp! Het is een schande! "
@@ -44,7 +45,7 @@
 				"<?php echo $_POST['naam']?>, je hebt helemaal gelijk! Wat zou ik doen als ik jou niet had."
 			</p><br>
 			<p>
-				" <?php echo $_POST['activiteit']?>, Sire "
+				" <?php echo $_POST['bezig']?>, Sire "
 			</p><br>
 
 			</div>

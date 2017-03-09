@@ -28,7 +28,7 @@
 					<br>
 				<p>wat doe je als je je verveeld? <input name="verveel" type="input" id="inpt" placeholder="activiteit"></p>
 					<br>
-				<p>met wel speelgoed speelde je als kin het liefst <input name="toy" type="input" id="inpt" placeholder="speelgoed"></p>
+				<p>met wel speelgoed speelde je als kind het liefst <input name="toy" type="input" id="inpt" placeholder="speelgoed"></p>
 					<br>
 				<p>bij welke docent spijbelde je het liefst? <input name="doc" type="input" id="inpt" placeholder="persoon"></p>
 					<br>
